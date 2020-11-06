@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Patrick Mckercher's Business Analytics GitHub
+description: This site is to provide several examples of product I have created.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
