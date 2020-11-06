@@ -4,4 +4,4 @@ description: This site is to provide several examples of product I have created.
 ---
 
 Below are links to my Module 3 Graphing assignment of Compitition Through Business Analytics.
-- [Module 3 Graphing]
+- [M3 Graphing](/M3 Graphing/index.md)
